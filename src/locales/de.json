@@ -1,1 +1,462 @@
-{}
+{
+  "site": {
+    "name": "The Hollow Wiki",
+    "shortName": "The Hollow",
+    "tagline": "Leitfaden zum Roblox-2026-Halloween-Überlebens-Event",
+    "description": "Inoffizieller Leitfaden zu The Hollow, Roblox' Halloween-Überlebens-Event 2026, mit Event-Terminen, allen neun Horror-Spielen, täglichen Monstern, Labyrinth-Komplettlösungen, Quests und Belohnungen.",
+    "legalNotice": "Inoffizielles Fan-Wiki. Nicht mit der Roblox Corporation verbunden."
+  },
+  "nav": {
+    "home": "Startseite",
+    "guide": "Leitfaden",
+    "events": "Events",
+    "items": "Gegenstände",
+    "monsters": "Monster",
+    "menu": "Menü",
+    "toggleTheme": "Design umschalten"
+  },
+  "home": {
+    "meta": {
+      "title": "The Hollow Wiki — Roblox 2026 Halloween-Event-Leitfaden",
+      "description": "The Hollow 2026-Leitfaden für Roblox' Halloween-Überlebens-Event, mit Event-Terminen, allen neun Horror-Spielen, täglichen Monstern, Labyrinth-Routen, Quests und Belohnungen."
+    },
+    "hero": {
+      "eyebrow": "Roblox 2026 Halloween-Event",
+      "title": "The Hollow Wiki",
+      "description": "Alles, was du für The Hollow brauchst, Roblox' Halloween-Überlebens-Event 2026: Event-Termine, alle neun Horror-Spiele, tägliche Monster, Labyrinth-Hinweise, Quests und UGC-Belohnungen.",
+      "stats": [
+        "22. Okt. – 2. Nov. 2026",
+        "9 Horror-Spiele",
+        "Tägliche Monster",
+        "UGC-Belohnungen"
+      ],
+      "primaryCta": "Event-Leitfaden starten",
+      "secondaryCta": "Auf Roblox spielen",
+      "tertiaryCta": "Offizielle Ankündigung",
+      "videoLabel": "The Hollow 2026 Komplettlösung"
+    },
+    "updates": {
+      "title": "Neueste Updates",
+      "browse": "Alle Leitfäden durchsuchen",
+      "viewAll": "Alle ansehen"
+    },
+    "start": {
+      "eyebrow": "Hier starten",
+      "title": "Deine Reise durch The Hollow",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Einsteiger-Guide",
+          "description": "Beginne im Event-Hub von The Hollow, lerne den täglichen Labyrinth-Ablauf kennen und prüfe die Ziele, die in der aktuellen Nacht verfügbar sind."
+        },
+        {
+          "number": "2",
+          "title": "Event-Termine",
+          "description": "Verfolge die Eröffnung von The Hollow am 22. Oktober, das Live-Finale am 31. Oktober und die Belohnungsfrist am 2. November."
+        },
+        {
+          "number": "3",
+          "title": "Alle neun Monster",
+          "description": "Triff jedes angekündigte Monster in The Hollow, von The Deer und Seek bis The Overseer."
+        },
+        {
+          "number": "4",
+          "title": "Quests & Belohnungen",
+          "description": "Schließe die Quests von The Hollow für exklusive UGC- und Überlebensbelohnungen ab, bevor die Abholung endet."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Beliebte Seiten",
+      "title": "Aktuell im Trend",
+      "quickLinks": [
+        "Event-Leitfaden",
+        "Event-Termine",
+        "Neun Monster",
+        "Avatar-Belohnungen"
+      ],
+      "cards": [
+        {
+          "badge": "Start",
+          "title": "Einsteiger-Guide zu The Hollow",
+          "description": "Erfahre, wie Event-Hub, wechselndes Labyrinth, tägliche Monster und Quests zusammenpassen.",
+          "href": "/guide/the-hollow-roblox-event-guide"
+        },
+        {
+          "badge": "Termine",
+          "title": "Event-Termine von The Hollow",
+          "description": "Prüfe die bestätigte Eröffnungszeit, das Halloween-Finale und die Frist zur Belohnungsabholung.",
+          "href": "/events/the-hollow-event-dates"
+        },
+        {
+          "badge": "Monster",
+          "title": "Monster-Übersicht von The Hollow",
+          "description": "Sieh alle neun Monster und das Horror-Spiel, aus dem jedes stammt.",
+          "href": "/monsters/the-hollow-monsters-and-participating-games"
+        },
+        {
+          "badge": "Belohnungen",
+          "title": "Avatar-Belohnungen von The Hollow",
+          "description": "Unterscheide zwischen UGC aus Quests, zeitlich begrenzten Marketplace-Artikeln und Plus-Vorteilen.",
+          "href": "/items/the-hollow-avatar-rewards"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "Was ist The Hollow?",
+      "paragraphs": [
+        "The Hollow ist Roblox' plattformweites Halloween-Überlebens-Event 2026 von Roblox Presents. Es wurde am 22. Oktober um 14 Uhr PT eröffnet, fügt neun Tage lang täglich ein neues Labyrinth und ein neues Monster hinzu und veranstaltet am Morgen des 31. Oktober ein Live-Finale.",
+        "Spieler erkunden den Event-Hub, suchen nach Hinweisen, weichen Monstern aus neun Horror-Spielen aus und schließen Quests für exklusive UGC- und Überlebensbelohnungen ab. Die Belohnungsabholung bleibt bis 12 Uhr PST am 2. November 2026 geöffnet."
+      ],
+      "stats": [
+        {
+          "label": "Entwickler",
+          "value": "Roblox Presents"
+        },
+        {
+          "label": "Plattform",
+          "value": "Roblox"
+        },
+        {
+          "label": "Monster",
+          "value": "9"
+        },
+        {
+          "label": "Event-Zeitraum",
+          "value": "22. Okt.–2. Nov."
+        },
+        {
+          "label": "Live-Finale",
+          "value": "31. Okt."
+        },
+        {
+          "label": "Belohnungsabholung endet",
+          "value": "2. Nov."
+        }
+      ],
+      "cta": "Entdecke die Leitfäden zu The Hollow"
+    },
+    "explore": {
+      "title": "The Hollow Wiki erkunden",
+      "description": "Begleite The Hollow von der Eröffnungsnacht bis zum Halloween-Finale mit Event-Terminen, Monster-Leitfäden, Labyrinth-Tipps, Quests und Avatar-Belohnungen.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "The Hollow Roblox-Event 2026",
+          "description": "Erfahre mehr über das Halloween-Überlebens-Event von Roblox Presents, seinen gemeinsamen Hub und die neun Horror-Spiele, die mit The Hollow verbunden sind.",
+          "href": "/guide/the-hollow-roblox-event-guide",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Roblox",
+              "detail": "The Hollow ist ein plattformweites Halloween-Überlebens-Event von Roblox Presents"
+            },
+            {
+              "label": "9 Spiele",
+              "detail": "Neun Horror-Spiele liefern die Monster, die in The Hollow auftreten"
+            },
+            {
+              "label": "Täglich",
+              "detail": "Neun Tage lang erscheinen täglich ein neues Labyrinth und ein anderes Monster"
+            },
+            {
+              "label": "Hub",
+              "detail": "Berechtigte Spieler betreten The Hollow über seinen Event-Hub"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Event-Termine von The Hollow",
+          "description": "Verfolge die bestätigte Eröffnung im Oktober, das Halloween-Finale, das Early-Access-Zeitfenster und die endgültige Frist zur Belohnungsabholung für The Hollow.",
+          "href": "/events/the-hollow-event-dates",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "22. Okt.",
+              "detail": "The Hollow öffnet am 22. Oktober 2026 für berechtigte Spieler"
+            },
+            {
+              "label": "14 Uhr PT",
+              "detail": "Der allgemeine Zugang beginnt um 14 Uhr PT; der Plus-Vorabzugang startet um 12 Uhr PT"
+            },
+            {
+              "label": "31. Okt.",
+              "detail": "Das Live-Finale von The Hollow beginnt am Morgen des 31. Oktober"
+            },
+            {
+              "label": "2. Nov.",
+              "detail": "Die Belohnungsabholung endet am 2. November 2026 um 12 Uhr PST"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Zugangsleitfaden zu The Hollow",
+          "description": "Prüfe die Konto-, Alters-, Regions- und Roblox-Plus-Details, die mit dem Betreten des Event-Hubs von The Hollow verbunden sind.",
+          "href": "/guide/the-hollow-roblox-event-guide",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Konto",
+              "detail": "The Hollow ist für berechtigte Inhaber von Roblox- oder Roblox Select-Konten verfügbar"
+            },
+            {
+              "label": "Ab 9 Jahren",
+              "detail": "Das Event ist in den meisten Regionen für Spieler ab 9 Jahren gedacht"
+            },
+            {
+              "label": "Plus",
+              "detail": "Aktive Roblox Plus-Abonnenten erhielten um 12 Uhr PT vorzeitigen Hub-Zugang"
+            },
+            {
+              "label": "Region",
+              "detail": "Alters- und Zugangsregeln für The Hollow variieren je nach Region"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Die neun Monster von The Hollow",
+          "description": "Triff jedes in Roblox' Ankündigung genannte Monster und erfahre, aus welchem Horror-Spiel es in The Hollow stammt.",
+          "href": "/monsters/the-hollow-monsters-and-participating-games",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Deer",
+              "detail": "The Deer aus 99 Nights in the Forest"
+            },
+            {
+              "label": "Seek",
+              "detail": "Seek aus DOORS"
+            },
+            {
+              "label": "Dandy",
+              "detail": "Twisted Dandy aus Dandy's World"
+            },
+            {
+              "label": "Piggy",
+              "detail": "Piggy aus Piggy"
+            },
+            {
+              "label": "Inspector",
+              "detail": "The Inspector aus Scary Shawarma Kiosk"
+            },
+            {
+              "label": "Mimic",
+              "detail": "Mimic aus Animal Hospital"
+            },
+            {
+              "label": "Biter",
+              "detail": "Biter aus Demonology"
+            },
+            {
+              "label": "Hiachi",
+              "detail": "Hiachi aus The Mimic"
+            },
+            {
+              "label": "Overseer",
+              "detail": "The Overseer aus Warden"
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Tägliche Labyrinthe von The Hollow",
+          "description": "Folge dem bestätigten Überlebensablauf für jede Nacht in The Hollow, vom Prüfen des aktuellen Labyrinths bis zum Abholen der Quest-Belohnungen.",
+          "href": "/guide/the-hollow-roblox-event-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Betritt den Event-Hub von The Hollow mit einem berechtigten Roblox-Konto"
+            },
+            {
+              "label": "2",
+              "detail": "Prüfe das aktuelle Labyrinth und die im Hub angezeigten Ziele"
+            },
+            {
+              "label": "3",
+              "detail": "Suche im Labyrinth nach den Hinweisen zur aktuellen Nacht"
+            },
+            {
+              "label": "4",
+              "detail": "Weiche dem Monster aus, das an diesem Tag in The Hollow auftritt"
+            },
+            {
+              "label": "5",
+              "detail": "Schließe verfügbare Quests für UGC- und Überlebensbelohnungen ab"
+            },
+            {
+              "label": "6",
+              "detail": "Kehre zurück, bevor die Belohnungsabholung am 2. November um 12 Uhr PST endet"
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Quests und Belohnungen in The Hollow",
+          "description": "Verstehe, wie Quests, exklusive UGC, Überlebensbelohnungen und das abschließende Abholfenster in The Hollow funktionieren.",
+          "href": "/items/the-hollow-avatar-rewards",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Quests",
+              "detail": "Schließe Quests ab, die im Event-Hub von The Hollow verfügbar sind"
+            },
+            {
+              "label": "UGC",
+              "detail": "Mit Quests in The Hollow lassen sich exklusive nutzergenerierte Inhalte verdienen"
+            },
+            {
+              "label": "Überleben",
+              "detail": "Event-Belohnungen können Spielern helfen, eine weitere Nacht in The Hollow zu überleben"
+            },
+            {
+              "label": "Frist",
+              "detail": "Die Belohnungsabholung endet am 2. November 2026 um 12 Uhr PST"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Avatar-Artikel von The Hollow",
+          "description": "Unterscheide zwischen Quest-Belohnungen von The Hollow, zeitlich begrenzten Avatar-Artikeln im Marketplace und Vorteilen für Roblox-Plus-Abonnenten.",
+          "href": "/items/the-hollow-avatar-rewards",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Horseman",
+              "detail": "The Hollow Horseman ist als zeitlich begrenzter Marketplace-Artikel gelistet"
+            },
+            {
+              "label": "Make-up",
+              "detail": "Saisonale Make-up-Looks erscheinen im Marketplace-Sortiment von The Hollow"
+            },
+            {
+              "label": "Shop",
+              "detail": "Dutzende exklusive Avatar-Artikel werden getrennt von Quest-UGC verkauft"
+            },
+            {
+              "label": "Plus",
+              "detail": "Abonnenten erhalten einen Profilrahmen, einen Hintergrund und einen Gegenstands-Launcher"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Prioritäten für das Finale von The Hollow",
+          "description": "Ordne die bestätigten Meilensteine von The Hollow nach Spielerpriorität, von der Belohnungsfrist bis zur täglichen Labyrinth-Veröffentlichung.",
+          "href": "/events/the-hollow-event-dates",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Der 2. November um 12 Uhr PST ist die endgültige Frist, um die Belohnungen von The Hollow abzuholen"
+            },
+            {
+              "label": "A",
+              "detail": "Das Live-Finale von The Hollow beginnt am Morgen des 31. Oktober"
+            },
+            {
+              "label": "B",
+              "detail": "The Hollow öffnet am 22. Oktober um 14 Uhr PT für berechtigte Spieler"
+            },
+            {
+              "label": "C",
+              "detail": "Neun Tage lang erscheinen täglich ein neues Labyrinth und ein neues Monster in The Hollow"
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Häufig gestellte Fragen",
+      "description": "Kurze Antworten zu Event-Terminen, Zugang, Monstern, Quests und Belohnungen von The Hollow.",
+      "items": [
+        {
+          "question": "Was ist The Hollow?",
+          "answer": "The Hollow ist Roblox' Halloween-Überlebens-Event 2026 von Roblox Presents. Im Mittelpunkt steht ein gemeinsamer Event-Hub mit einem wechselnden Labyrinth, neun täglichen Monsterauftritten, Quests und exklusiven UGC-Belohnungen."
+        },
+        {
+          "question": "Wann beginnt und endet The Hollow?",
+          "answer": "The Hollow wurde am 22. Oktober 2026 um 14 Uhr PT eröffnet. Sein Live-Finale beginnt am Morgen des 31. Oktober, und Spieler können Belohnungen bis 12 Uhr PST am 2. November abholen."
+        },
+        {
+          "question": "Braucht man Roblox Plus, um The Hollow zu spielen?",
+          "answer": "Nein. The Hollow ist für berechtigte Inhaber von Roblox- oder Roblox Select-Konten verfügbar. Aktive Plus-Abonnenten erhielten am Eröffnungstag um 12 Uhr PT vorzeitigen Hub-Zugang sowie zusätzliche Event-Vorteile."
+        },
+        {
+          "question": "Welche Monster erscheinen in The Hollow?",
+          "answer": "In The Hollow treten The Deer, Seek, Twisted Dandy, Piggy, The Inspector, Mimic, Biter, Hiachi und The Overseer auf. Roblox hat in seiner Ankündigung keinem Monster ein konkretes Datum zugewiesen."
+        },
+        {
+          "question": "Wie verdient man Belohnungen in The Hollow?",
+          "answer": "Schließe Quests in The Hollow ab, um exklusive UGC und Belohnungen zu verdienen, die dir beim Überleben helfen können. Halloween-Artikel im Marketplace, einschließlich The Hollow Horseman, werden getrennt von Quest-Belohnungen verkauft."
+        },
+        {
+          "question": "Wo spielt man The Hollow?",
+          "answer": "The Hollow findet innerhalb von Roblox über das offizielle Event-Erlebnis und den gemeinsamen Hub statt. Ein berechtigtes Roblox-Konto ist erforderlich, und Alters- oder Zugangsregeln variieren je nach Region."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Bereit, The Hollow zu überleben?",
+      "description": "Verfolge jede Nacht von Roblox' Halloween-Event 2026 mit unseren kostenlosen, quellenbasierten Leitfäden zu Labyrinthen, Monstern, Quests und Belohnungen.",
+      "primary": "Event-Leitfaden lesen",
+      "secondary": "Auf Roblox spielen"
+    }
+  },
+  "guide": {
+    "overviewTitle": "The Hollow Roblox-Event-Leitfaden",
+    "overviewDescription": "Erfahre, wie The Hollow funktioniert – vom Betreten des Event-Hubs und dem Lesen täglicher Labyrinth-Hinweise bis zum Abschließen von Quests vor der Belohnungsfrist am 2. November."
+  },
+  "events": {
+    "overviewTitle": "Event-Termine und Finale von The Hollow",
+    "overviewDescription": "Verfolge den bestätigten Zeitplan von The Hollow für 2026, einschließlich der Eröffnung am 22. Oktober, des Live-Finales am 31. Oktober und der Belohnungsfrist am 2. November."
+  },
+  "items": {
+    "overviewTitle": "Belohnungen und Avatar-Artikel von The Hollow",
+    "overviewDescription": "Sieh, wie Quests in The Hollow exklusive UGC vergeben, was Überlebensbelohnungen bewirken können und welche Halloween-Avatar-Artikel separat verkauft werden."
+  },
+  "monsters": {
+    "overviewTitle": "Monster und Spiele von The Hollow",
+    "overviewDescription": "Triff alle neun Monster in The Hollow und die Horror-Spiele, aus denen sie stammen, von The Deer bis The Overseer."
+  },
+  "shared": {
+    "wikiNavigation": "Wiki-Navigation",
+    "activeCodes": "Event-Belohnungen",
+    "updated": "Aktualisiert",
+    "viewAllCodes": "Belohnungsleitfäden ansehen",
+    "playOnRoblox": "Auf Roblox spielen",
+    "inThisSection": "In diesem Abschnitt",
+    "tableOfContents": "Inhaltsverzeichnis",
+    "nextSteps": "Nächste Schritte",
+    "needHelp": "Brauchst du Hilfe?",
+    "relatedReading": "Ähnliche Artikel",
+    "relatedGuides": "Verwandte Leitfäden",
+    "readMore": "Weiterlesen",
+    "officialMedia": "Offizielle Medien",
+    "home": "Startseite",
+    "noGuidesAvailable": "Noch keine Leitfäden verfügbar. Schau bald wieder vorbei!"
+  },
+  "footer": {
+    "aboutTitle": "The Hollow Wiki",
+    "about": "The Hollow Wiki ist ein unabhängiger, von Fans erstellter Leitfaden zu Roblox' Halloween-Überlebens-Event 2026, mit Event-Terminen, täglichen Monstern, Labyrinth-Routen, Quests und Belohnungen.",
+    "quickLinks": "Schnelllinks",
+    "guides": "Leitfäden",
+    "legal": "Rechtliches",
+    "copyright": "2026 The Hollow Wiki. Nicht mit der Roblox Corporation verbunden.",
+    "description": "Inoffizieller Leitfaden zu The Hollow, Roblox' Halloween-Überlebens-Event 2026.",
+    "playGame": "The Hollow auf Roblox spielen",
+    "officialDiscord": "Offizieller Roblox-Discord",
+    "officialYoutube": "Offizieller Roblox YouTube",
+    "vvBuilder": "Roblox Event-Hub",
+    "beginnerGuide": "Event-Leitfaden",
+    "raceGuides": "Event-Termine",
+    "bossGuides": "Monster-Leitfäden",
+    "buildGuide": "Belohnungen & Gegenstände",
+    "privacyPolicy": "Datenschutzrichtlinie",
+    "termsOfService": "Nutzungsbedingungen"
+  }
+}

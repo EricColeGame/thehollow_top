@@ -1,1 +1,462 @@
-{}
+{
+  "site": {
+    "name": "Вікі The Hollow",
+    "shortName": "The Hollow",
+    "tagline": "Посібник із хелловінської події на виживання Roblox 2026",
+    "description": "Неофіційний посібник із The Hollow — хелловінської події на виживання Roblox 2026 — з датами події, усіма дев’ятьма хорор-іграми, щоденними монстрами, проходженнями лабіринтів, квестами та нагородами.",
+    "legalNotice": "Неофіційна фанатська вікі. Не пов’язана з Roblox Corporation."
+  },
+  "nav": {
+    "home": "Головна",
+    "guide": "Посібник",
+    "events": "Події",
+    "items": "Предмети",
+    "monsters": "Монстри",
+    "menu": "Меню",
+    "toggleTheme": "Перемкнути тему"
+  },
+  "home": {
+    "meta": {
+      "title": "Вікі The Hollow — посібник із хелловінської події Roblox 2026",
+      "description": "Посібник із The Hollow 2026 для хелловінської події на виживання Roblox, що охоплює дати події, усі дев’ять хорор-ігор, щоденних монстрів, маршрути лабіринтами, квести й нагороди."
+    },
+    "hero": {
+      "eyebrow": "Хелловінська подія Roblox 2026",
+      "title": "Вікі The Hollow",
+      "description": "Усе необхідне для The Hollow — хелловінської події на виживання Roblox 2026: дати події, усі дев’ять хорор-ігор, щоденні монстри, підказки в лабіринтах, квести та нагороди UGC.",
+      "stats": [
+        "22 жовт. – 2 лист. 2026",
+        "9 хорор-ігор",
+        "Щоденні монстри",
+        "Нагороди UGC"
+      ],
+      "primaryCta": "Почати посібник із події",
+      "secondaryCta": "Грати в Roblox",
+      "tertiaryCta": "Офіційне оголошення",
+      "videoLabel": "Проходження The Hollow 2026"
+    },
+    "updates": {
+      "title": "Останні оновлення",
+      "browse": "Переглянути всі посібники",
+      "viewAll": "Переглянути все"
+    },
+    "start": {
+      "eyebrow": "Почніть тут",
+      "title": "Ваша подорож The Hollow",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Посібник для початківців",
+          "description": "Почніть із хабу події The Hollow, вивчіть щоденний цикл лабіринту та перегляньте завдання, доступні в поточну ніч."
+        },
+        {
+          "number": "2",
+          "title": "Дати події",
+          "description": "Відстежуйте відкриття The Hollow 22 жовтня, живий фінал 31 жовтня та кінцевий термін отримання нагород 2 листопада."
+        },
+        {
+          "number": "3",
+          "title": "Усі дев’ять монстрів",
+          "description": "Познайомтеся з кожним оголошеним монстром у The Hollow — від The Deer і Seek до The Overseer."
+        },
+        {
+          "number": "4",
+          "title": "Квести й нагороди",
+          "description": "Виконайте квести The Hollow, щоб отримати ексклюзивні нагороди UGC та нагороди за виживання до закриття збору."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Популярні сторінки",
+      "title": "Зараз популярне",
+      "quickLinks": [
+        "Посібник із події",
+        "Дати події",
+        "Дев’ять монстрів",
+        "Нагороди для аватара"
+      ],
+      "cards": [
+        {
+          "badge": "Початок",
+          "title": "Посібник для початківців The Hollow",
+          "description": "Дізнайтеся, як поєднуються хаб події, мінливий лабіринт, щоденні монстри та квести.",
+          "href": "/guide/the-hollow-roblox-event-guide"
+        },
+        {
+          "badge": "Дати",
+          "title": "Дати події The Hollow",
+          "description": "Перевірте підтверджений час відкриття, хелловінський фінал і кінцевий термін збору нагород.",
+          "href": "/events/the-hollow-event-dates"
+        },
+        {
+          "badge": "Монстри",
+          "title": "Список монстрів The Hollow",
+          "description": "Перегляньте всіх дев’ятьох монстрів і хорор-гру, з якої походить кожен із них.",
+          "href": "/monsters/the-hollow-monsters-and-participating-games"
+        },
+        {
+          "badge": "Нагороди",
+          "title": "Нагороди для аватара The Hollow",
+          "description": "Відрізняйте UGC, отримані за квести, від тимчасових предметів Marketplace і переваг Plus.",
+          "href": "/items/the-hollow-avatar-rewards"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "Що таке The Hollow?",
+      "paragraphs": [
+        "The Hollow — це платформна хелловінська подія на виживання Roblox 2026 від Roblox Presents. Вона відкрилася 22 жовтня о 2 годині дня PT, щодня протягом дев’яти днів додає новий лабіринт і монстра, а вранці 31 жовтня проводить живий фінал.",
+        "Гравці досліджують хаб події, шукають підказки, уникають монстрів, узятих із дев’яти хорор-ігор, і виконують квести, щоб отримати ексклюзивні нагороди UGC та нагороди за виживання. Збір нагород триває до полудня за PST 2 листопада 2026 року."
+      ],
+      "stats": [
+        {
+          "label": "Розробник",
+          "value": "Roblox Presents"
+        },
+        {
+          "label": "Платформа",
+          "value": "Roblox"
+        },
+        {
+          "label": "Монстри",
+          "value": "9"
+        },
+        {
+          "label": "Вікно події",
+          "value": "22 жовт. – 2 лист."
+        },
+        {
+          "label": "Живий фінал",
+          "value": "31 жовт."
+        },
+        {
+          "label": "Закриття нагород",
+          "value": "2 лист."
+        }
+      ],
+      "cta": "Переглянути посібники The Hollow"
+    },
+    "explore": {
+      "title": "Дослідіть вікі The Hollow",
+      "description": "Прослідкуйте The Hollow від ночі відкриття до хелловінського фіналу разом із датами події, посібниками з монстрів, порадами щодо лабіринтів, квестами та нагородами для аватара.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Подія The Hollow у Roblox 2026",
+          "description": "Ознайомтеся з хелловінською подією на виживання від Roblox Presents, її спільним хабом і дев’ятьма хорор-іграми, пов’язаними з The Hollow.",
+          "href": "/guide/the-hollow-roblox-event-guide",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Roblox",
+              "detail": "The Hollow — це платформна хелловінська подія на виживання від Roblox Presents"
+            },
+            {
+              "label": "9 ігор",
+              "detail": "Дев’ять хорор-ігор дають монстрів, представлених у The Hollow"
+            },
+            {
+              "label": "Щодня",
+              "detail": "Новий лабіринт і інший монстр з’являються щодня протягом дев’яти днів"
+            },
+            {
+              "label": "Хаб",
+              "detail": "Допущені гравці входять у The Hollow через хаб події"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Дати події The Hollow",
+          "description": "Відстежуйте підтверджене жовтневе відкриття, хелловінський фінал, період раннього доступу та остаточний термін збору нагород у The Hollow.",
+          "href": "/events/the-hollow-event-dates",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "22 жовт.",
+              "detail": "The Hollow відкривається для допущених гравців 22 жовтня 2026 року"
+            },
+            {
+              "label": "2 год. дня PT",
+              "detail": "Загальний доступ починається о 2 годині дня PT; ранній доступ Plus стартує опівдні PT"
+            },
+            {
+              "label": "31 жовт.",
+              "detail": "Живий фінал The Hollow починається вранці 31 жовтня"
+            },
+            {
+              "label": "2 лист.",
+              "detail": "Збір нагород закривається опівдні PST 2 листопада 2026 року"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Посібник із доступу до The Hollow",
+          "description": "Перевірте відомості про обліковий запис, вік, регіон і Roblox Plus, пов’язані з входом у хаб події The Hollow.",
+          "href": "/guide/the-hollow-roblox-event-guide",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Обліковий запис",
+              "detail": "The Hollow доступний для допущених власників облікових записів Roblox або Roblox Select"
+            },
+            {
+              "label": "Вік 9+",
+              "detail": "Подія призначена для гравців віком від 9 років у більшості регіонів"
+            },
+            {
+              "label": "Plus",
+              "detail": "Активні підписники Roblox Plus отримали ранній доступ до хабу опівдні PT"
+            },
+            {
+              "label": "Регіон",
+              "detail": "Правила щодо віку та доступу до The Hollow відрізняються залежно від регіону"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Дев’ять монстрів The Hollow",
+          "description": "Познайомтеся з кожним монстром, названим в оголошенні Roblox, і хорор-грою, з якої кожен походить у The Hollow.",
+          "href": "/monsters/the-hollow-monsters-and-participating-games",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Deer",
+              "detail": "The Deer з 99 Nights in the Forest"
+            },
+            {
+              "label": "Seek",
+              "detail": "Seek з DOORS"
+            },
+            {
+              "label": "Dandy",
+              "detail": "Twisted Dandy з Dandy's World"
+            },
+            {
+              "label": "Piggy",
+              "detail": "Piggy з Piggy"
+            },
+            {
+              "label": "Inspector",
+              "detail": "The Inspector з Scary Shawarma Kiosk"
+            },
+            {
+              "label": "Mimic",
+              "detail": "Mimic з Animal Hospital"
+            },
+            {
+              "label": "Biter",
+              "detail": "Biter з Demonology"
+            },
+            {
+              "label": "Hiachi",
+              "detail": "Hiachi з The Mimic"
+            },
+            {
+              "label": "Overseer",
+              "detail": "The Overseer з Warden"
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Щоденні лабіринти The Hollow",
+          "description": "Дотримуйтеся підтвердженого циклу виживання для кожної ночі в The Hollow — від перевірки поточного лабіринту до отримання нагород за квести.",
+          "href": "/guide/the-hollow-roblox-event-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Увійдіть у хаб події The Hollow з допущеним обліковим записом Roblox"
+            },
+            {
+              "label": "2",
+              "detail": "Перевірте поточний лабіринт і завдання, показані в хабі"
+            },
+            {
+              "label": "3",
+              "detail": "Шукайте в лабіринті підказки, пов’язані з поточною ніччю"
+            },
+            {
+              "label": "4",
+              "detail": "Уникайте монстра, представленого того дня в The Hollow"
+            },
+            {
+              "label": "5",
+              "detail": "Виконуйте доступні квести для нагород UGC і нагород за виживання"
+            },
+            {
+              "label": "6",
+              "detail": "Поверніться до закриття збору нагород опівдні PST 2 листопада"
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Квести й нагороди The Hollow",
+          "description": "Зрозумійте, як у The Hollow працюють квести, ексклюзивні нагороди UGC, нагороди за виживання та остаточний період збору.",
+          "href": "/items/the-hollow-avatar-rewards",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Квести",
+              "detail": "Виконуйте квести, доступні в хабі події The Hollow"
+            },
+            {
+              "label": "UGC",
+              "detail": "Квести The Hollow можуть давати ексклюзивний контент, створений користувачами"
+            },
+            {
+              "label": "Виживання",
+              "detail": "Нагороди події можуть допомогти гравцям вижити ще одну ніч у The Hollow"
+            },
+            {
+              "label": "Кінцевий термін",
+              "detail": "Збір нагород завершується опівдні PST 2 листопада 2026 року"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Предмети для аватара The Hollow",
+          "description": "Відрізняйте нагороди за квести The Hollow від тимчасових предметів для аватара в Marketplace і переваг підписників Roblox Plus.",
+          "href": "/items/the-hollow-avatar-rewards",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Horseman",
+              "detail": "The Hollow Horseman зазначено як тимчасовий предмет Marketplace"
+            },
+            {
+              "label": "Макіяж",
+              "detail": "Сезонні образи макіяжу з’являються в асортименті Marketplace The Hollow"
+            },
+            {
+              "label": "Магазин",
+              "detail": "Десятки ексклюзивних предметів для аватара продаються окремо від UGC за квести"
+            },
+            {
+              "label": "Plus",
+              "detail": "Підписники отримують рамку профілю, фон і засіб запуску предметів"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Пріоритети фіналу The Hollow",
+          "description": "Упорядкуйте підтверджені віхи The Hollow за пріоритетом для гравців — від кінцевого терміну нагород до щоденного запуску лабіринтів.",
+          "href": "/events/the-hollow-event-dates",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "2 листопада опівдні PST — остаточний термін збору нагород The Hollow"
+            },
+            {
+              "label": "A",
+              "detail": "Живий фінал The Hollow починається вранці 31 жовтня"
+            },
+            {
+              "label": "B",
+              "detail": "The Hollow відкривається для допущених гравців 22 жовтня о 2 годині дня PT"
+            },
+            {
+              "label": "C",
+              "detail": "Новий лабіринт і монстр з’являються в The Hollow щодня протягом дев’яти днів"
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Поширені запитання",
+      "description": "Швидкі відповіді про дати події The Hollow, доступ, монстрів, квести й нагороди.",
+      "items": [
+        {
+          "question": "Що таке The Hollow?",
+          "answer": "The Hollow — це хелловінська подія на виживання Roblox 2026 від Roblox Presents. Вона зосереджена на спільному хабі події з мінливим лабіринтом, дев’ятьма щоденними появами монстрів, квестами та ексклюзивними нагородами UGC."
+        },
+        {
+          "question": "Коли The Hollow починається й закінчується?",
+          "answer": "The Hollow відкрився 22 жовтня 2026 року о 2 годині дня PT. Його живий фінал починається вранці 31 жовтня, а гравці можуть збирати нагороди до полудня PST 2 листопада."
+        },
+        {
+          "question": "Чи потрібен Roblox Plus, щоб грати в The Hollow?",
+          "answer": "Ні. The Hollow доступний для допущених власників облікових записів Roblox або Roblox Select. Активні підписники Plus отримали ранній доступ до хабу опівдні PT у день відкриття та додаткові переваги події."
+        },
+        {
+          "question": "Які монстри з’являються в The Hollow?",
+          "answer": "У The Hollow представлені The Deer, Seek, Twisted Dandy, Piggy, The Inspector, Mimic, Biter, Hiachi і The Overseer. Roblox не призначив кожному монстру конкретну дату у своєму оголошенні."
+        },
+        {
+          "question": "Як отримати нагороди в The Hollow?",
+          "answer": "Виконуйте квести в The Hollow, щоб отримати ексклюзивні нагороди UGC та нагороди, які можуть допомогти вижити. Хелловінські предмети Marketplace, зокрема Hollow Horseman, продаються окремо від нагород за квести."
+        },
+        {
+          "question": "Де грати в The Hollow?",
+          "answer": "The Hollow відбувається в Roblox через офіційний ігровий досвід події та спільний хаб. Потрібен допущений обліковий запис Roblox, а правила щодо віку чи доступу відрізняються залежно від регіону."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Готові вижити в The Hollow?",
+      "description": "Відстежуйте кожну ніч хелловінської події Roblox 2026 за допомогою наших безкоштовних посібників на основі джерел про лабіринти, монстрів, квести й нагороди.",
+      "primary": "Читати посібник із події",
+      "secondary": "Грати в Roblox"
+    }
+  },
+  "guide": {
+    "overviewTitle": "Посібник із події The Hollow у Roblox",
+    "overviewDescription": "Дізнайтеся, як працює The Hollow: від входу в хаб події та читання щоденних підказок у лабіринті до виконання квестів до кінцевого терміну нагород 2 листопада."
+  },
+  "events": {
+    "overviewTitle": "Дати події The Hollow і фінал",
+    "overviewDescription": "Відстежуйте підтверджений розклад The Hollow на 2026 рік, зокрема відкриття 22 жовтня, живий фінал 31 жовтня та кінцевий термін нагород 2 листопада."
+  },
+  "items": {
+    "overviewTitle": "Нагороди The Hollow і предмети для аватара",
+    "overviewDescription": "Дізнайтеся, як квести The Hollow дають ексклюзивні нагороди UGC, що можуть робити нагороди за виживання та які хелловінські предмети для аватара продаються окремо."
+  },
+  "monsters": {
+    "overviewTitle": "Монстри й ігри The Hollow",
+    "overviewDescription": "Познайомтеся з усіма дев’ятьма монстрами в The Hollow і хорор-іграми, з яких вони походять, від The Deer до The Overseer."
+  },
+  "shared": {
+    "wikiNavigation": "Навігація вікі",
+    "activeCodes": "Нагороди події",
+    "updated": "Оновлено",
+    "viewAllCodes": "Переглянути посібники з нагород",
+    "playOnRoblox": "Грати в Roblox",
+    "inThisSection": "У цьому розділі",
+    "tableOfContents": "Зміст",
+    "nextSteps": "Наступні кроки",
+    "needHelp": "Потрібна допомога?",
+    "relatedReading": "Пов’язане читання",
+    "relatedGuides": "Пов’язані посібники",
+    "readMore": "Читати далі",
+    "officialMedia": "Офіційні медіа",
+    "home": "Головна",
+    "noGuidesAvailable": "Посібників ще немає. Заходьте пізніше!"
+  },
+  "footer": {
+    "aboutTitle": "Вікі The Hollow",
+    "about": "Вікі The Hollow — це незалежний посібник, створений фанатами, про хелловінську подію на виживання Roblox 2026, що охоплює дати події, щоденних монстрів, маршрути лабіринтами, квести й нагороди.",
+    "quickLinks": "Швидкі посилання",
+    "guides": "Посібники",
+    "legal": "Правова інформація",
+    "copyright": "2026 Вікі The Hollow. Не пов’язана з Roblox Corporation.",
+    "description": "Неофіційний посібник із The Hollow — хелловінської події на виживання Roblox 2026.",
+    "playGame": "Грати в The Hollow на Roblox",
+    "officialDiscord": "Офіційний Discord Roblox",
+    "officialYoutube": "Офіційний YouTube Roblox",
+    "vvBuilder": "Хаб подій Roblox",
+    "beginnerGuide": "Посібник із події",
+    "raceGuides": "Дати події",
+    "bossGuides": "Посібники з монстрів",
+    "buildGuide": "Нагороди й предмети",
+    "privacyPolicy": "Політика конфіденційності",
+    "termsOfService": "Умови надання послуг"
+  }
+}
