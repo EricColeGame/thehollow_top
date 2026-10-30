@@ -1,10 +1,10 @@
 {
   "site": {
-    "name": "My Seafood Stand Wiki",
-    "shortName": "My Seafood Stand",
-    "tagline": "Complete Guides, Codes, Recipes & Tier Lists",
-    "description": "Your ultimate guide to My Seafood Stand on Roblox! Explore active codes, seafood recipes, best upgrades, profit strategies, and progression guides.",
-    "legalNotice": "Non-official fan wiki. Made by players, for players."
+    "name": "The Hollow Wiki",
+    "shortName": "The Hollow",
+    "tagline": "Roblox 2026 Halloween Survival Event Guide",
+    "description": "Unofficial guide to The Hollow, Roblox's 2026 Halloween survival event, with event dates, all nine horror games, daily monsters, maze walkthroughs, quests, and rewards.",
+    "legalNotice": "Unofficial fan wiki. Not affiliated with Roblox Corporation."
   },
   "nav": {
     "races": "Races",
@@ -26,23 +26,23 @@
   },
   "home": {
     "meta": {
-      "title": "My Seafood Stand Wiki — Codes, Recipes, Upgrades & Guides",
-      "description": "Complete My Seafood Stand guide on Roblox with active working codes, all fish & recipes, best upgrades tier list, and fast cash tips."
+      "title": "The Hollow Wiki — Roblox 2026 Halloween Event Guide",
+      "description": "The Hollow 2026 guide for Roblox's Halloween survival event, covering event dates, all nine horror games, daily monsters, maze routes, quests, and rewards."
     },
     "hero": {
-      "eyebrow": "Fan-Made Community Wiki",
-      "title": "My Seafood Stand",
-      "description": "Master your restaurant in My Seafood Stand on Roblox. Access all active codes, complete fish & recipe catalog, optimal upgrades, and pro money-making strategies.",
+      "eyebrow": "Roblox 2026 Halloween Event",
+      "title": "The Hollow Wiki",
+      "description": "Everything you need for The Hollow, Roblox's 2026 Halloween survival event: event dates, all nine horror games, daily monsters, maze clues, quests, and UGC rewards.",
       "stats": [
-        "All Codes",
-        "All Fish & Recipes",
-        "Upgrade Guides",
-        "Fast Cash Tips"
+        "Oct 22 – Nov 2, 2026",
+        "9 Horror Games",
+        "Daily Monsters",
+        "UGC Rewards"
       ],
-      "primaryCta": "Beginner Guide",
-      "secondaryCta": "Seafood Tier List",
-      "tertiaryCta": "Active Codes",
-      "videoLabel": "Official media"
+      "primaryCta": "Start the Event Guide",
+      "secondaryCta": "Play on Roblox",
+      "tertiaryCta": "Official Announcement",
+      "videoLabel": "The Hollow 2026 walkthrough"
     },
     "updates": {
       "title": "Latest Updates",
@@ -342,9 +342,9 @@
       ]
     },
     "finalCta": {
-      "title": "Ready to Master My Seafood Stand?",
-      "description": "From your first steps in Fort Adams to endgame boss fights our community wiki has you covered with free, up-to-date guides.",
-      "primary": "Read the Beginner Guide",
+      "title": "Ready to Survive The Hollow?",
+      "description": "Track every night of Roblox's 2026 Halloween event with our free, source-based guides to the mazes, monsters, quests, and rewards.",
+      "primary": "Read the Event Guide",
       "secondary": "Play on Roblox"
     }
   },
@@ -379,21 +379,21 @@
     "noGuidesAvailable": "No guides available yet. Check back soon!"
   },
   "footer": {
-    "aboutTitle": "My Seafood Stand Wiki",
-    "about": "My Seafood Stand Wiki is an independent fan-built guide hub covering progression routes, races, bosses, builds, and essential game knowledge for new and veteran players alike.",
+    "aboutTitle": "The Hollow Wiki",
+    "about": "The Hollow Wiki is an independent, fan-built guide to Roblox's 2026 Halloween survival event, covering event dates, daily monsters, maze routes, quests, and rewards.",
     "quickLinks": "Quick Links",
     "guides": "Guides",
     "legal": "Legal",
-    "copyright": "2026 My Seafood Stand Wiki. Not affiliated with Midnight Continent or Roblox.",
-    "description": "Free Bleach-inspired fighting RPG on Roblox. 3 races, 130+ skills, Lv100 cap.",
-    "playGame": "Play My Seafood Stand",
-    "officialDiscord": "Official Discord",
-    "officialYoutube": "Official YouTube",
-    "vvBuilder": "VV Builder (Skill Planner)",
-    "beginnerGuide": "Beginner Guide",
-    "raceGuides": "Race Guides",
-    "bossGuides": "Boss Guides",
-    "buildGuide": "Build Guide",
+    "copyright": "2026 The Hollow Wiki. Not affiliated with Roblox Corporation.",
+    "description": "Unofficial guide to The Hollow, Roblox's 2026 Halloween survival event.",
+    "playGame": "Play The Hollow on Roblox",
+    "officialDiscord": "Roblox Official Discord",
+    "officialYoutube": "Roblox Official YouTube",
+    "vvBuilder": "Roblox Event Hub",
+    "beginnerGuide": "Event Guide",
+    "raceGuides": "Maze Routes",
+    "bossGuides": "Monster Guides",
+    "buildGuide": "Codes & Rewards",
     "privacyPolicy": "Privacy Policy",
     "termsOfService": "Terms of Service"
   }

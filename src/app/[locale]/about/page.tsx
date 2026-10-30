@@ -3,8 +3,8 @@ import { LegalPage } from "@/components/legal-page";
 export default function AboutPage() {
   return (
     <LegalPage title="About">
-      <p>VV Ultimatum Wiki is an independent fan-built guide hub covering progression routes, races, bosses, builds, and essential game knowledge for new and veteran players alike.</p>
-      <p>The layout, navigation, article cards, and detail format are reproduced from the target VV: ULTIMATUM wiki pages requested for this implementation.</p>
+      <p>The Hollow Wiki is an independent fan-built guide to The Hollow, Roblox's 2026 Halloween survival event. It covers event dates, all nine participating horror games, daily monsters, maze routes, quests, and rewards.</p>
+      <p>Our goal is to provide clear, source-based event information for players without pretending to be an official Roblox or The Hollow website.</p>
     </LegalPage>
   );
 }
