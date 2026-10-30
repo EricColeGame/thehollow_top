@@ -6,7 +6,15 @@
     "description": "Unofficial guide to The Hollow, Roblox's 2026 Halloween survival event, with event dates, all nine horror games, daily monsters, maze walkthroughs, quests, and rewards.",
     "legalNotice": "Unofficial fan wiki. Not affiliated with Roblox Corporation."
   },
-  "nav": {},
+  "nav": {
+    "home": "Home",
+    "guide": "Guide",
+    "events": "Events",
+    "items": "Items",
+    "monsters": "Monsters",
+    "menu": "Menu",
+    "toggleTheme": "Toggle theme"
+  },
   "home": {
     "meta": {
       "title": "The Hollow Wiki — Roblox 2026 Halloween Event Guide",
@@ -399,12 +407,27 @@
       "secondary": "Play on Roblox"
     }
   },
-  "bosses": {},
+  "guide": {
+    "overviewTitle": "The Hollow Roblox Event Guide",
+    "overviewDescription": "Learn how The Hollow works, from entering the event hub and reading daily maze clues to completing quests before the November 2 reward deadline."
+  },
+  "events": {
+    "overviewTitle": "The Hollow Event Dates and Finale",
+    "overviewDescription": "Track The Hollow's confirmed 2026 schedule, including the October 22 opening, October 31 live finale, and November 2 reward deadline."
+  },
+  "items": {
+    "overviewTitle": "The Hollow Rewards and Avatar Items",
+    "overviewDescription": "See how The Hollow quests award exclusive UGC, what survival rewards can do, and which Halloween avatar items are sold separately."
+  },
+  "monsters": {
+    "overviewTitle": "The Hollow Monsters and Games",
+    "overviewDescription": "Meet all nine monsters in The Hollow and the horror games they come from, from The Deer to The Overseer."
+  },
   "shared": {
     "wikiNavigation": "Wiki Navigation",
-    "activeCodes": "Active Codes",
+    "activeCodes": "Event Rewards",
     "updated": "Updated",
-    "viewAllCodes": "View all codes",
+    "viewAllCodes": "View reward guides",
     "playOnRoblox": "Play on Roblox",
     "inThisSection": "In this section",
     "tableOfContents": "Table of Contents",
@@ -430,9 +453,9 @@
     "officialYoutube": "Roblox Official YouTube",
     "vvBuilder": "Roblox Event Hub",
     "beginnerGuide": "Event Guide",
-    "raceGuides": "Maze Routes",
+    "raceGuides": "Event Dates",
     "bossGuides": "Monster Guides",
-    "buildGuide": "Codes & Rewards",
+    "buildGuide": "Rewards & Items",
     "privacyPolicy": "Privacy Policy",
     "termsOfService": "Terms of Service"
   }
